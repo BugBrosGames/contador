@@ -126,7 +126,7 @@ int count = 0;
                 ) 
               ), 
               child: const Text(
-                  'Entrou Aqui',   
+                  'Entrou',   
                   style: TextStyle(
                     fontSize: 16,
                     color: Colors.black,
